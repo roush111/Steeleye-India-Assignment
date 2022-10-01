@@ -4,4 +4,4 @@ a)  Not Starting a Component Name with a Capital Letter : A React component must
 b)  Using Single Quotes Instead of Back-ticks
 Strings created with back-ticks (`…​`) are different from strings created with single quotes ('…​').
 c)  Using React.PropTypes
-The PropTypes object was removed from React. It used to be available as React.PropTypes but you cannot use that anymore. Instead, you need to Add the new prop-types package to your project: npm install prop-types Import it: import PropTypes from 'prop-types'
+The PropTypes object was removed from React. It used to be available as React.PropTypes but you cannot use that anymore. Instead, you need to Add the new prop-types package to your project: npm install prop-types Import it: import PropTypes from 'prop-types'.
